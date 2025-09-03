@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}"helloworld-test-cli-sample/package.json"
+"git@github.com:microsoft/vscode-extension-samples.git"
+"gh repo clone microsoft/vscode-extension-samples""devcontainer/devcontainer.json"
+"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
